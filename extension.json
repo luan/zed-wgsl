@@ -1,0 +1,9 @@
+{
+  "name": "Wgsl",
+  "version": "0.0.1",
+  "authors": [
+    "Luan Santos <zed@luan.sh>"
+  ],
+  "description": "Wgsl language support for Zed",
+  "repository": "https://github.com/luan/zed-wgsl"
+}

@@ -66,7 +66,7 @@
     "break"
     "continue"
     "continuing"
-] @repeat
+] @keyword.repeat
 
 [
     "if"
@@ -74,7 +74,7 @@
     "switch"
     "case"
     "default"
-] @conditional
+] @keyword.conditional
 
 [
     "&"

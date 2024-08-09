@@ -1,0 +1,15 @@
+id = "wgsl"
+name = "Wgsl"
+version = "0.0.2"
+schema_version = 1
+authors = ["Luan Santos <zed@luan.sh>", "xdk78 <xdk78888@gmail.com>"]
+description = "Wgsl language support for Zed"
+repository = "https://github.com/luan/zed-wgsl"
+
+[language_servers.wgsl]
+name = "Wgsl"
+language = "wgsl"
+
+[grammars.wgsl]
+repository = "https://github.com/szebniok/tree-sitter-wgsl"
+commit = "40259f3c77ea856841a4e0c4c807705f3e4a2b65"

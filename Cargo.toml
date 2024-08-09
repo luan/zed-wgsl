@@ -1,0 +1,11 @@
+[package]
+name = "wgsl"
+version = "0.0.2"
+edition = "2021"
+
+[lib]
+path = "src/wgsl.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+zed_extension_api = "0.0.6"

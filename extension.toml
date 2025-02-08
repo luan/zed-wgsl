@@ -6,7 +6,7 @@ authors = ["Luan Santos <zed@luan.sh>", "xdk78 <xdk78888@gmail.com>"]
 description = "Wgsl language support for Zed"
 repository = "https://github.com/luan/zed-wgsl"
 
-[language_servers.wgsl]
+[language_servers.glasgow]
 name = "Wgsl"
 language = "wgsl"
 

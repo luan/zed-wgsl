@@ -1,6 +1,6 @@
 id = "wgsl"
 name = "Wgsl"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Luan Santos <zed@luan.sh>", "xdk78 <xdk78888@gmail.com>"]
 description = "Wgsl language support for Zed"
@@ -8,7 +8,7 @@ repository = "https://github.com/luan/zed-wgsl"
 
 [language_servers.glasgow]
 name = "Wgsl"
-language = "wgsl"
+languages = ["Wgsl"]
 
 [grammars.wgsl]
 repository = "https://github.com/szebniok/tree-sitter-wgsl"
